@@ -1,0 +1,4 @@
+git branch --branchName--
+git branch
+git merge --branchName--
+git checkout --branchName--
